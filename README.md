@@ -10,7 +10,7 @@ Interactive 3D tool for designing space habitats for NASA missions to the Moon a
 
 **[Try it now! :0](https://neo-cosmic-space-habitat.netlify.app/)**
 
-## 📘 User Manual
+## User manual
 
 A detailed **NEO-COSMIC User manual** is available for download, explaining how to use the Neo-Cosmic Web Interface step by step, from creating your first habitat to exporting designs.
 
