@@ -1,4 +1,4 @@
-# Neo-Cosmic space habitat
+# Neo-Cosmic space habitat interface
 
 Interactive 3D tool for designing space habitats for NASA missions to the Moon and Mars.
 
