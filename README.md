@@ -65,9 +65,15 @@ Perfect for:
 ## Installation
 
 ### Option 1: Use online (Recommended)
-Just visit: [https://neo-cosmic-habitat-designer.netlify.app](https://neo-cosmic-habitat-designer.netlify.app)
+Just visit: [https://neo-cosmic-space-habitat.netlify.app](https://neo-cosmic-space-habitat.netlify.app/)
 
-### Option 2: Run locally
-1. Clone this repository
+### Option 2: Download and use locally
+1. Download the `index.html` file from this repository
+2. Open the file with your browser (double-click)
+3. Done... Works without internet
+
+### Option 3: Clone with Git (For developers)
+If you want to modify the code or contribute:
 ```bash
 git clone https://github.com/alexei-pastrana/neo-cosmic-space-habitat.git
+cd neo-cosmic-space-habitat
