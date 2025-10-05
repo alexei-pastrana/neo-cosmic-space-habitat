@@ -53,6 +53,21 @@ This tool helps students, engineers, and space enthusiasts design functional spa
 
 ## Screenshots
 
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/5403de72-c15a-4be8-b766-308ce434c3a7" />
+
+<img width="1918" height="1013" alt="Image" src="https://github.com/user-attachments/assets/9152e7a1-5475-480e-9902-ac9517e48e15" />
+
+<img width="980" height="600" alt="Image" src="https://github.com/user-attachments/assets/b3ed5299-3dea-4e64-a6b7-da45d9f14542" />
+
+<img width="980" height="600" alt="Image" src="https://github.com/user-attachments/assets/cde685a5-eb5c-4096-bc90-cb21c17a18e5" />
+
+<img width="980" height="600" alt="Image" src="https://github.com/user-attachments/assets/e904e3ed-60dd-4272-ba29-b409a386f8e6" />
+
+<img width="1918" height="1016" alt="Image" src="https://github.com/user-attachments/assets/953f3975-a731-41f5-8086-00e941f5a8cb" />
+
+<img width="1918" height="1015" alt="Image" src="https://github.com/user-attachments/assets/402387d3-e8a0-4caf-a0fe-8fcc7a37f4b9" />
+
+<img width="1918" height="1011" alt="Image" src="https://github.com/user-attachments/assets/cb0a18a1-c4d6-4afb-bd83-8a430d70b622" />
 
 ## Educational value
 
