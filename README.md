@@ -8,7 +8,7 @@ Interactive 3D tool for designing space habitats for NASA missions to the Moon a
 
 ## Live demo
 
-**[Try it now!](https://neo-cosmic-habitat-designer.netlify.app)**
+**[Try it now! :0](https://neo-cosmic-habitat-designer.netlify.app)**
 
 ## Features
 
